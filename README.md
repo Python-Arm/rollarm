@@ -1,2 +1,2 @@
 # python-arm
-Python code for roboti arm. Server + client
+Python code for robotic arm. Server + client
