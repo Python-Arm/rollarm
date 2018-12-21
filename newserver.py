@@ -2,9 +2,6 @@ import socket
 import time
 import serial
 
-#ard=serial.Serial("COM5",9600)
-#ard.write("090090090170")
-
 tasto='g'
 
 
@@ -87,7 +84,6 @@ while not quitting:
 			print(ang4)
 		elif tasto=='c':
 			ang4="170"
-#			ard.write(ang4) omae wa mu shjinderu NANI!
 		if ang1<100 and ang1>9:
 			ang1="0"+str(ang1)
 		elif ang1<10:
