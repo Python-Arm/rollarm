@@ -7,4 +7,4 @@ Francesco Paolo Mariani,
 Daniele Tanzi,
 Roberto De Lillo,
 with my useful hints.
-Worthwhile code taken from Internet.
+Worthwhile code has been taken from Internet.
