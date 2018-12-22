@@ -1,5 +1,5 @@
 #include <Servo.h>
-
+//by Francesco Paolo Mariani
 Servo base;
 Servo spalla;
 Servo polso;
